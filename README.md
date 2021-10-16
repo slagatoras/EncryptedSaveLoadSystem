@@ -1,7 +1,7 @@
 <h1 align="center">Save / Load System using BSON serializer</h1>
 
 <p align="center">My personal choice of saving and loading sensitive game data!</p>
-<p align="center">Source and more info can be found on https://www.newtonsoft.com/json/help/html/Introduction.html </p>
+<p align="center">Source and more info can be found on https://www.newtonsoft.com/json/help/html/Introduction.htm </p>
 ## Screenshots
 
 
